@@ -14,6 +14,5 @@
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
 
-
 <h2>References</h2>
 <a>🔍 https://github.com/jwasham/coding-interview-university</a>
