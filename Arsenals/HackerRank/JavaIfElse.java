@@ -13,10 +13,12 @@ import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
 public class JavaIfElse {
-    public static void main(String[] args) throws IOException {
-        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
-        int N = Integer.parseInt(bufferedReader.readLine().trim());
+    private static Scanner sc = new Scanner(System.in);
+
+    public static void main(String[] args) throws IOException {
+
+        int N = sc.nextInt();
 
         if (N %2 == 0) {
             if (N >= 2 && N <=5) {

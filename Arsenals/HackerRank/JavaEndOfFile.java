@@ -6,13 +6,13 @@ import java.util.regex.*;
 
 public class JavaEndOfFile {
 
+    private static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
         String line;
         int i = 1;
-        while(input.hasNext())
+        while(sc.hasNext())
         {
-            line = input.nextLine();
+            line = sc.nextLine();
             System.out.println(i + " "+ line);
             i++;
         }
