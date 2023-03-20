@@ -31,4 +31,4 @@
 </div>
 
 <h2>References</h2>
-<a>🔍 https://github.com/jwasham/coding-interview-university</a>
+<a href="https://github.com/jwasham/coding-interview-university">🔍 github.com/jwasham/coding-interview-university </a>
