@@ -1,4 +1,3 @@
-**<h1>Status: 🚧 Currently Studying 🚧</h1>**
 
 <h1>📚 Software Engineering Notebook 📚</h1>
 
