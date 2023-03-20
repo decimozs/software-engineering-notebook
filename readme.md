@@ -23,10 +23,12 @@
 
 <h2>Tools</h2>
 <p>Some of the tools that I used when studying.</p>
+<div style="display: flex; align-items: flex-start;">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excalidraw-%23F05033.svg?style=for-the-badge&logo=Excalidraw&logoColor=35914c"/>
+<img src="https://img.shields.io/badge/Excalidraw-%23121011.svg?style=for-the-badge&logo=Excalidraw&logoColor=white"/>
+</div>
 
 <h2>References</h2>
 <a>🔍 https://github.com/jwasham/coding-interview-university</a>
