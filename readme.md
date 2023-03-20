@@ -4,7 +4,7 @@
 
 <h2>🛡️ Language 🛡️</h2>
 <p>The language that I used in this study plan is Java. I use java because this is our primary language that is used in the university, but also java helps me understand how Object Oriented Programming works.</p>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <h2>⚔️ Arsenals ⚔️</h2>
 <p>Here are the websites that I used to practice my programming and coding skills. I use these websites after I study certain concepts on the study plan, to examine my take aways knowledge of those concepts.</p>
